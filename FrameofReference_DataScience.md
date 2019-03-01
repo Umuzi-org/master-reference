@@ -2,8 +2,8 @@
 # Data Science Program Outline
 
 ## Table of Contents
-- [Month -1: Online Learning and Bootcamp](#Month -1: Online Learning and Bootcamp)
-- [Month 0: #MakeUmuziBetter](#Month 0: #MakeUmuziBetter)
+[Month -1: Online Learning and Bootcamp](#Month -1: Online Learning and Bootcamp)
+[Month 0: #MakeUmuziBetter](#Month 0: #MakeUmuziBetter)
 - [Months 1-5: Systems Development and Data Science]
     - [Week 1: Linux and intro to curriculum]
     - [Week 2: Useful tools and personal portfolio]
