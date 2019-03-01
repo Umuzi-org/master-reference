@@ -2,59 +2,63 @@
 # Web Development Program Outline
 
 
-Month -1: Online Learning and Bootcamp        2
-Month 0: #MakeUmuziBetter        2
-Months 1-4: Game Development Curriculum        3
-Week 1: Linux and intro to curriculum        3
-Week 2: Useful tools and personal portfolio        3
-Week 3: Personal portfolio and game research        3
-Week 4: Technical reports        3
-Week 5: Presentations and feedback        4
-Week 6: Web design        4
-Week 7: Project management and problem solving        4
-Week 8: Version control and documentation        4
-Week 9: OOP        4
-Week 10: Game development workshop        4
-Week 11: Test-driven development and catch-up        5
-Week 12: Game development        5
-Week 13: Game development        5
-Week 14: Node.js        5
-Week 15: Database development        5
-Week 16: MongoDB        6
-Week 17: MySQL        6
-Week 18: Analytics and user feedback        6
-Week 19: Search and sort techniques        6
-Week 20: Finishing the game        6
-Months 5-9: Product Teams        6
-Week 21: Product team introduction        7
-Week 22: React        7
-Week 23: Node and Express        7
-Week 24: Product team and OOP review        7
-Week 25: MongoDB        7
-Week 26: Product team        8
-Week 27: Product team and Portfolio        8
-Week 28-35: Product team        8
-Additional learning        8
-Web Development Programme Summary        9
-Prerequisites        9
-Duration        9
-Cost        9
-Objectives of Training        9
-Web Development Track        10
-Web Development: Job Description        10
-Web Development: Programme        10
+- [Month -1: Online Learning and Bootcamp]
+- [Month 0: #MakeUmuziBetter]
+- [Months 1-4: Game Development Curriculum ]
+- [Week 1: Linux and intro to curriculum]
+-  [Week 2: Useful tools and personal portfolio]
+-  [Week 3: Personal portfolio and game research]
+-  [Week 4: Technical reports]
+-  [Week 5: Presentations and feedback]
+-  [Week 6: Web design]
+-  [Week 7: Project management and problem solving]
+-  [Week 8: Version control and documentation]
+-  [Week 9: OOP]
+-  [Week 10: Game development workshop]
+-  [Week 11: Test-driven development and catch-up]
+-  [Week 12: Game development]
+-  [Week 13: Game development]
+-  [Week 14: Node.js]
+-  [Week 15: Database development]
+-  [Week 16: MongoDB]
+-  [Week 17: MySQL]
+-  [Week 18: Analytics and user feedback]
+-  [Week 19: Search and sort techniques]
+-  [Week 20: Finishing the game]
+-  [Months 5-9: Product Teams]
+-  [Week 21: Product team introduction]
+-  [Week 22: React]
+-  [Week 23: Node and Express]
+-  [Week 24: Product team and OOP review]
+-  [Week 25: MongoDB]
+-  [Week 26: Product team]
+-  [Week 27: Product team and Portfolio]
+-  [Week 28-35: Product team]
+-  [Additional learning]
+
+- [Web Development Programme Summary]
+-  [Prerequisites]
+-  [Duration]
+-  [Cost]
+-  [Objectives of Training]
+-  [Web Development Track]
+
+-  [Web Development: Job Description]
+
+-  [Web Development: Programme]
 
 
 
 
-Month -1: Online Learning and Bootcamp
+
+## [Month -1: Online Learning and Bootcamp]
 During the application process, we ask prospective recruits to learn basic HTML and CSS skills through free online platforms (currently FreeCodeCamp and Khan Academy). In the screening process, they also complete several tests which evaluate their personality, numeracy, statistical understanding, and logical thinking. Those who perform well on these platforms are invited for an interview, and a selection of interviewees are invited bootcamp.
 
 
 During a two-week bootcamp, the final stage of of Umuzi’s selection process, the applicants continue with online learning through FreeCodeCamp and are given a series of challenges. There are two short web development challenges they complete in their first week. In the second week, they start learning JavaScript and are given 5 simple challenges, as well as a more difficult problem (we don’t expect them to solve the difficult problem, we only ask them to walk us through their approach for trying to solve it). In addition to these technical challenges, we also have a series of group games and challenges to learn how they work with a team and under pressure. If the applicant performs well during bootcamp, they are invited to join Umuzi as a recruit.
 
 
-Month 0: #MakeUmuziBetter
+## [Month 0: #MakeUmuziBetter]
 A recruit’s journey starts with a three-week programme called Make Umuzi Better. Recruits from all departments form small cross-functional teams to tackle issues at Umuzi--anything from mental health to kitchen norms to the physical layout of our space. To accomplish this, they learn about and execute Human-Centered Design, a technique used throughout their time at Umuzi. Each team maps out user journeys, conducts interviews and surveys, designs a prototype of their solution, and presents it to the staff and external guests.
 Months 1-4: Game Development Curriculum
 The first few months for a Umuzi Web Dev recruit are dedicated to obtaining a National Certificate of Information Technology: Systems Development (Level 5).
@@ -63,61 +67,62 @@ The first few months for a Umuzi Web Dev recruit are dedicated to obtaining a Na
 During this time they are spending the first hour of each day going through lessons of FreeCodeCamp (primarily increasing their JavaScript knowledge).
 
 
-Week 1: Linux and intro to curriculum
+### [Week 1: Linux and intro to curriculum]
 * Command line bootcamp
 * Introduction to game development (NCIT curriculum)
    * 01: Business and technology
    * 02: Ethics and Professionalism in IT
 
-
-Week 2: Useful tools and personal portfolio
+### [Week 2: Useful tools and personal portfolio]
 * Git 101 workshop
 * Project management with Trello (first intro to Agile and Scrum methodologies)
 * Development of a personal website to showcase a portfolio of their work
 
-
-Week 3: Personal portfolio and game research
+### [Week 3: Personal portfolio and game research]
 * Continue to work on portfolio website
 * Game development curriculum
    * 03: Conducting research and user interviews
    * Workshop: Survey design and analysis in Google Forms
    * Assignment: Research notes
-Week 4: Technical reports
+
+### [Week 4: Technical reports]
 * Game development curriculum
    * 04: Writing a report on game research
    * Assignment: technical report
 * Portfolio websites due
 
-
-Week 5: Presentations and feedback
+### [Week 5: Presentations and feedback]
 * Game development curriculum
    * 05: Presentations on game research
    * Assignment: 10-min presentation with slides
    * 06: Giving and receiving constructive feedback
-Week 6: Web design
+
+### [Week 6: Web design]
 * Game development curriculum
    * 07: History of the Internet and online gaming
    * 08: Web design for business
    * 09: Building an online business
 
-
-Week 7: Project management and problem solving
+### [Week 7: Project management and problem solving]
 * Game development curriculum
    * 10: Agile project management
    * 11: Agile meetings
    * 12: Thinking like a machine (boolean algebra, logic)
    * Workshop: Problem solving techniques
-Week 8: Version control and documentation
+
+### [Week 8: Version control and documentation]
 * Game development curriculum
    * 13: Version control (GIT)
    * 14: Pseudocode and documentation
-   * Workshop: Project organization and naming conventions[a]
-Week 9: OOP
+   * Workshop: Project organization and naming conventions
+
+### [Week 9: OOP]
 * Game development curriculum
    * 15: Object-oriented programming
    * Assignment: OOP person class
    * Discuss game idea
-Week 10: Game development workshop
+
+### [Week 10: Game development workshop]
 * Workshop on game development in HTML5
    * Build Breakout game through live demos
 * Game development curriculum
@@ -125,105 +130,89 @@ Week 10: Game development workshop
    * Watch game dev tutorials
    * Finalize game idea
 
-
-Week 11: Test-driven development and catch-up
+### [Week 11: Test-driven development and catch-up]
 * Game development curriculum
    * 16: Test-driven development
    * Assignment: TDD assignment with Mocha.js
    * Watch game dev tutorials
 * Catch up on assignments, readings, assessments for the curriculum
 
-
-Week 12: Game development
+### [Week 12: Game development]
 * Game development curriculum
    * Build game
 
-
-Week 13: Game development
+### [Week 13: Game development]
 * Game development curriculum
    * Build game
    * Assignment: MVP of game due
 
-
-Week 14: Node.js
+### [Week 14: Node.js]
 * Workshop: Asynchronous vs synchronous code
 * Workshop: Introduction to Node.js
 
-
-Week 15: Database development
+### [Week 15: Database development]
 * Game development curriculum
    * Assignment: Add login functionality to game using Node
    * 17: Database development
-Week 16: MongoDB
+
+### [Week 16: MongoDB]
 * Workshop: Using mongoDB to store user information
 * Game development curriculum
    * Assignment: Add database to game to store user data
 
-
-Week 17: MySQL
+### [Week 17: MySQL]
 * Workshop: Intro to mySQL and relational databases
 * Game development curriculum
    * Continue development of version 2
 
-
-Week 18: Analytics and user feedback
+### [Week 18: Analytics and user feedback]
 * Game development curriculum
    * 18: Analytics
    * Assignment: add Google Analytics to game website
    * Assignment: create user survey to collect feedback
 
-
-Week 19: Search and sort techniques
+### [Week 19: Search and sort techniques]
 * Game development curriculum
    * 19: Search and sort
    * Assignment: search and sort algorithms[b]
    * Continue game development based on feedback
 
-
-Week 20: Finishing the game
+### [Week 20: Finishing the game]
 * Game development curriculum
    * Final version of game due
    * 20: Software development process review
 
-
-Months 5-9: Product Teams
+## [Months 5-9: Product Teams]
 After recruits have finished with the formal qualification and their HTML5 game, they move on to working on our product teams.
-
-
-Product teams are teams of no more than 6 recruits guided by a product owner (Umuzi staff). The teams use the Scrum methodology to build real-world, web-based products.They conduct research on new libraries and frameworks as needed for the products.
-
-
+Product teams are teams of no more than 6 recruits guided by a product owner (Umuzi staff). The teams use the Scrum methodology to build real-world, web-based products. They conduct research on new libraries and frameworks as needed for the products.
 They also receive additional training on the MERN stack with stand-alone projects.
 
-
-
-
-Week 21: Product team introduction
+### [Week 21: Product team introduction]
 * Working with product owners and older recruits to understand the current state of whatever product team they join
    * Participate in stand-ups and start owning tickets
 * Update portfolio to make sure all projects completed during first 20 weeks are listed
 
 
-Week 22: React
+### [Week 22: React]
 * Introduction to React
    * Video tutorial lessons
    * Assignment: React app[c]
 * Continue with product team work
 
 
-Week 23: Node and Express
+### [Week 23: Node and Express]
 * Refresher on Node and Express and Socket.io
    * Assignment: Node, Express, Socket app[d]
 * Continue with product team work
 
 
-Week 24: Product team and OOP review
+### [Week 24: Product team and OOP review]
 * Work on product teams
 * Workshop reviewing OOP topics[e]
 * Catch up on stand-alone projects
 
 
-Week 25: MongoDB
+### [Week 25: MongoDB]
 * Refresher on mongoDB and mongoose
    * Assignment: Integrating database into application[f]
 * Continue on product team work
@@ -232,97 +221,78 @@ Week 26: Product team
 * Catch up on stand-alone projects
 
 
-Week 27: Product team and Portfolio
+### [Week 27: Product team and Portfolio]
 * Work on product teams
 * Check in with managers to make sure all finished products are in portfolio
 
 
-Week 28-35: Product team
+### [Week 28-35: Product team]
 * Work on product teams
 * Learn new frameworks as needed
 * Maintain personal portfolio
 
 
-Additional learning
-In addition to the curriculum listed above, the recruits participate in workshops given by industry professionals and Umuzi staff. Generally there are 2-3 workshops each month. Topics include time management, public speaking, networking, preparing for technical interviews, introduction to new frameworks, tech trends, etc.
+## [Additional learning]
+In addition to the curriculum listed above, the recruits participate in workshops given by industry professionals and Umuzi staff. Generally there are 2-3 workshops each month. Topics include time management, public speaking, networking, preparing for technical interviews, introduction to new frameworks, tech trends, etc.  
 
 
 Recruits are also encouraged to attend industry meetups, conferences, and hackathons. On average, recruits attend 1 meetup/conference per month and 1-2 hackathons during their time at Umuzi.
 
-
-
-
 ________________
-
-
-________________
-Web Development Programme Summary
-Prerequisites
+## [Web Development Programme Summary]
+### [Prerequisites]
 * English literacy
 * Matric maths
 * No technical prerequisites, just a strong motivation to challenge oneself and learn new things
 * Ability to work in an agile, human-centred way
 
 
-Duration
+### [Duration]
 * 160 hours of training in HCD and Agile through the Umuzi workshops and crash course
 * 1360 hours of subject-specific, technical training over 8 months at Umuzi proper
 * 3 months of full-time work experience with Umuzi’s world-class employer-partners.
 
 
-Cost
+### [Cost]
 * 100% free for students
 * Students receive a stipend of R3500 per month for living costs
 
 
-Objectives of Training
+### [Objectives of Training]
 
 
-Umuzi helps talented young South Africans move from unemployment into high-value careers.
+* Umuzi helps talented young South Africans move from unemployment into high-value careers.
+* Umuzi’s tech programmes are focussed on the most in-demand skills and technologies in the current market: full stack JavaScript for web development, Python and SQL for data science and data engineering.
+* Umuzi develops all-round professionals, with a focus on soft skills, Human Centred Design and Agile Scrum methodology.
 
 
-Umuzi’s tech programmes are focussed on the most in-demand skills and technologies in the current market: full stack JavaScript for web development, Python and SQL for data science and data engineering.
-
-
-Umuzi develops all-round professionals, with a focus on soft skills, Human Centred Design and Agile Scrum methodology.
-
-
-Web Development Track
-Web Development: Job Description
+## [Web Development Track]
+### [Web Development: Job Description]
 A web developer is someone who designs and implements modern, responsive websites and webapps. They must be strong at technical web development skills (full-stack Javascript, CSS and HTML, and associated libraries and frameworks); have strong visual and design skills; and strong modern engineering methodologies (including Git and Agile).
 
 
-Web Development: Programme
+### [Web Development: Programme]
 
 
-TECHNICAL
+#### TECHNICAL
 
 
-Languages:
-HTML, CSS, JavaScript
+##### Languages:
+- HTML
+- CSS
+- JavaScript
 
+##### Frameworks:
+- Node.JS/Express
+- JQuery
+- Bootstrap, CSS grid
+- [React, Angular]
 
-Frameworks:
-Node.JS/Express
-JQuery
-Bootstrap, CSS grid
-[React, Angular]
+##### Databases:
+- REST APIs, talking to a database
+- MongoDB
+- MySQL
 
-
-Databases:
-REST APIs, talking to a database
-MongoDB
-MySQL
-
-
-PROFESSIONAL
-Human Centred Design
-Agile
-
-
-[a]To be developed
-[b]To be developed for JS
-[c]To be developed
-[d]To be developed - connected to React app?
-[e]To be developed
-[f]To be developed
+#### PROFESSIONAL
+- Human Centred Design
+- Agile
