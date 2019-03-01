@@ -60,17 +60,17 @@ The first few months for a Umuzi tech recruit are dedicated to obtaining a Natio
 ### Week 12: Statistical Thinking in Python
 * Hypothesis testing, probability and confidence intervals
 * Correlation
-   * Assignment: [Salary Correlates](www.github.com/Umuzi-org/salary/blob/master/assignment1.md)
+   * Assignment: [Salary Correlates](https://www.github.com/Umuzi-org/salary/blob/master/assignment1.md)
 ### Week 13: Statistical Thinking in Python
 * Missing data, outliers, influential values
 * Salary assignment continued
 * Overview of different machine learning techniques
 ### Week 14 & 15: Cross-validation and Linear Regression
 * Test, training and validation sets
-* Assignment: [Predicting employee salaries](www.github.com/Umuzi-org/salary/blob/master/assignment2.md)
+* Assignment: [Predicting employee salaries](https://www.github.com/Umuzi-org/salary/blob/master/assignment2.md)
 ### Week 16:  Multivariate Regression
 * One-hot encoding and multiple regression
-* Assignment: [Predicting employee salaries](www.github.com/Umuzi-org/salary/blob/master/assignment3.md)
+* Assignment: [Predicting employee salaries](https://www.github.com/Umuzi-org/salary/blob/master/assignment3.md)
 ### Week 17: Introduction to relational databases
 * Workshop: Intro to mySQL and relational databases
 * Datacamp: https://www.datacamp.com/courses/introduction-to-relational-databases-in-sql
