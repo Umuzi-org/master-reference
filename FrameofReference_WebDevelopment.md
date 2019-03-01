@@ -1,53 +1,48 @@
 ﻿# Frame of Reference:  Umuzi Tech
 # Web Development Program Outline
 
+- [Month -1: Online Learning and Bootcamp](Month -1: Online Learning and Bootcamp)
+- [Month 0: #MakeUmuziBetter](Month 0: #MakeUmuziBetter)
+- [Months 1-4: Game Development Curriculum ](Months 1-4: Game Development Curriculum )
+    - [Week 1: Linux and intro to curriculum](Week 1: Linux and intro to curriculum)
+    -  [Week 2: Useful tools and personal portfolio](Week 2: Useful tools and personal portfolio)
+    -  [Week 3: Personal portfolio and game research](Week 3: Personal portfolio and game research)
+    -  [Week 4: Technical reports](Week 4: Technical reports)
+    -  [Week 5: Presentations and feedback]([Week 5: Presentations and feedback)
+    -  [Week 6: Web design](Week 6: Web design)
+    -  [Week 7: Project management and problem solving](Week 7: Project management and problem solving)
+    -  [Week 8: Version control and documentation](Week 8: Version control and documentation)
+    -  [Week 9: OOP](Week 9: OOP)
+    -  [Week 10: Game development workshop](Week 10: Game development workshop)
+    -  [Week 11: Test-driven development and catch-up](Week 11: Test-driven development and catch-up)
+    -  [Week 12: Game development](Week 12: Game development)
+    -  [Week 13: Game development](Week 13: Game development)
+    -  [Week 14: Node.js](Week 14: Node.js)
+    -  [Week 15: Database development](Week 15: Database development)
+    -  [Week 16: MongoDB](Week 16: MongoDB)
+    -  [Week 17: MySQL](Week 17: MySQL)
+    -  [Week 18: Analytics and user feedback](Week 18: Analytics and user feedback)
+    -  [Week 19: Search and sort techniques](Week 19: Search and sort techniques)
+    -  [Week 20: Finishing the game]([Week 20: Finishing the game)
+-  [Months 5-9: Product Teams](Months 5-9: Product Teams)
+    -  [Week 21: Product team introduction](Week 21: Product team introduction)
+    -  [Week 22: React](Week 22: React)
+    -  [Week 23: Node and Express](Week 23: Node and Express)
+    -  [Week 24: Product team and OOP review](Week 24: Product team and OOP review)
+    -  [Week 25: MongoDB](Week 25: MongoDB)
+    -  [Week 26: Product team](Week 26: Product team)
+    -  [Week 27: Product team and Portfolio](Week 27: Product team and Portfolio)
+    -  [Week 28-35: Product team](Week 28-35: Product team)
+-  [Additional learning](Additional learning)
 
-- [Month -1: Online Learning and Bootcamp]
-- [Month 0: #MakeUmuziBetter]
-- [Months 1-4: Game Development Curriculum ]
-- [Week 1: Linux and intro to curriculum]
--  [Week 2: Useful tools and personal portfolio]
--  [Week 3: Personal portfolio and game research]
--  [Week 4: Technical reports]
--  [Week 5: Presentations and feedback]
--  [Week 6: Web design]
--  [Week 7: Project management and problem solving]
--  [Week 8: Version control and documentation]
--  [Week 9: OOP]
--  [Week 10: Game development workshop]
--  [Week 11: Test-driven development and catch-up]
--  [Week 12: Game development]
--  [Week 13: Game development]
--  [Week 14: Node.js]
--  [Week 15: Database development]
--  [Week 16: MongoDB]
--  [Week 17: MySQL]
--  [Week 18: Analytics and user feedback]
--  [Week 19: Search and sort techniques]
--  [Week 20: Finishing the game]
--  [Months 5-9: Product Teams]
--  [Week 21: Product team introduction]
--  [Week 22: React]
--  [Week 23: Node and Express]
--  [Week 24: Product team and OOP review]
--  [Week 25: MongoDB]
--  [Week 26: Product team]
--  [Week 27: Product team and Portfolio]
--  [Week 28-35: Product team]
--  [Additional learning]
-
-- [Web Development Programme Summary]
--  [Prerequisites]
--  [Duration]
--  [Cost]
--  [Objectives of Training]
--  [Web Development Track]
-
--  [Web Development: Job Description]
-
--  [Web Development: Programme]
-
-
+- [Web Development Programme Summary](Web Development Programme Summary)
+    -  [Prerequisites](Prerequisites)
+    -  [Duration](Duration)
+    -  [Cost](Cost)
+    -  [Objectives of Training](Objectives of Training)
+-  [Web Development Track](Web Development Track)
+    -  [Web Development: Job Description](Web Development: Job Description)
+    -  [Web Development: Programme](Web Development: Programme)
 
 
 
