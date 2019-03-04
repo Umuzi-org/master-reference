@@ -30,10 +30,10 @@ Create a query that will:
 | CustomerID  | FirstName  |LastName  | Gender  |Address                  | Phone          | Email                   | City          | Country      |  
 |-------------|------------|----------|---------|-------------------------|----------------|-------------------------|---------------|--------------|
 | 1           | John       | Hilbert  |Male     | 284 chaucer st          | 084789657      | john@gmail.com          | Johannesburg  | South Africa |
-| 2           | Thando     | Sithole  | Female  | 240 Sect                | 10794445584    | thando@gmail.com        | Cape Town     | South Africa |
+| 2            | Thando     | Sithole  | Female  | 240 Sect                | 10794445584    | thando@gmail.com        | Cape Town     | South Africa |
 |3            | Leon       | Glen     | Male    | 1 Everton Rd, Gillits   | 02832830       | glen@gmail.com          | Durban        | South Africa |
-| 4           | Charl      | Muller   | Male    | 20A Dorset Ecke         | +856872553     |charl.muller@yahoo.com   | Berlin        | Germany      |
-| 5           | Julia      | Stein    | Female  | 2 Wernerring            | +448672445058  | Js234@yahoo.com         | Frankfurt     | Germany      |
+| 4            | Charl      | Muller   | Male    | 20A Dorset Ecke         | +856872553     |charl.muller@yahoo.com   | Berlin        | Germany      |
+| 5            | Julia      | Stein    | Female  | 2 Wernerring            | +448672445058  | Js234@yahoo.com         | Frankfurt     | Germany      |
 
 
 ### Employees Table
@@ -46,7 +46,7 @@ Create a query that will:
 
 ### Orders Table
 
-| OrderId     | Order                  | DateRequired    | DateShipped    | DateStatus     |  
+| OrderId     | Order                  | DateRequired    | DateShipped    |Status         |  
 |-------------|------------------------|-----------------|----------------|----------------|  
 | 1 (int)     | 01-09-2018 (datetime)  | 05-09-2018      | 02-09-2018     | Not shipped    |  
 | 2 (int)     | 01-09-2018 (datetime)  | 04-09-2018      | 03-09-2018     | Shipped        |  
