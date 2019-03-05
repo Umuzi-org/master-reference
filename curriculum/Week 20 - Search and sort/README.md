@@ -18,25 +18,24 @@ Searching refers to looking for a specific data point (e.g., a number) in a data
 ## Assignment
 1.	Use the following sorted list of words to perform a binary search:
 
-|-------|-------------|
-| index |	value       |
-|-------|-------------|
-| 0     |	babka       |
-| 1	    | baklava     |
-| 2	    | cheesecake  |
-| 3	    | cupcake     |
-| 4	    | danish      |
-| 5	    | eclair      |
-| 6	    | funnelcake  |
-| 7	    | kringle     |
-| 8	    | lamington   |
-| 9	    | profiterole |
-| 10    | sopaipilla  |
-| 11    | strudel     |
-| 12    | tiramisu    |
-| 13    | torte       |
-| 14    | turnover    |
-|---------------------|
+| index |	value |
+| --- | --- |
+| 0 |	babka |
+| 1 | baklava |
+| 2 | cheesecake |
+| 3 | cupcake |
+| 4 | danish |
+| 5 | eclair |
+| 6 | funnelcake |
+| 7 | kringle |
+| 8 | lamington |
+| 9 | profiterole |
+| 10 | sopaipilla |
+| 11 | strudel |
+| 12 | tiramisu |
+| 13 | torte |
+| 14 | turnover |
+
 
     - a) 	What sequence of 'middle' values are compared to the target when performing a binary search with target doughnut?
     - b)	What sequence of 'middle' values are compared to the target when performing a binary search with target tiramisu?
@@ -45,11 +44,11 @@ Searching refers to looking for a specific data point (e.g., a number) in a data
     - a) show the series of steps taken by the Bubble Sort algorithm while sorting this list.
     - b) show the series of steps taken by the Selection Sort algorithm while sorting this list.
 
-|-------|-----|-----|-----|-----|-----|-----|-----|-----|
-| index | 0   |	1   |	2   | 3   |	4   |	5   |	6   |	7   |
-|-------|-----|-----|-----|-----|-----|-----|-----|-----|
-| value | 9   |	20  |	6   |	10  |	14  |	8   |	60  |	11  |
-|-------|-----|-----|-----|-----|-----|-----|-----|-----|
+
+| index | 0 |	1 |	2 | 3 |	4 |	5 |	6 |	7 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| value | 9 |	20 |	6 |	10 |	14 |	8 |	60 | 11 |
+
 
 
 3. The three search algorithms have varying run times, with the unsorted sequential search being the least efficient and the binary search being the most efficient (among the three).

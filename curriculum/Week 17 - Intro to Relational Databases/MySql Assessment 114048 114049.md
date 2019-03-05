@@ -27,45 +27,45 @@ Create a query that will:
 
 ### Customer Table
 
-| CustomerID  | FirstName  |LastName  | Gender  |Address                  | Phone          | Email                   | City          | Country      |  
-|-------------|------------|----------|---------|-------------------------|----------------|-------------------------|---------------|--------------|
-| 1           | John       | Hilbert  |Male     | 284 chaucer st          | 084789657      | john@gmail.com          | Johannesburg  | South Africa |
-| 2            | Thando     | Sithole  | Female  | 240 Sect                | 10794445584    | thando@gmail.com        | Cape Town     | South Africa |
-|3            | Leon       | Glen     | Male    | 1 Everton Rd, Gillits   | 02832830       | glen@gmail.com          | Durban        | South Africa |
-| 4            | Charl      | Muller   | Male    | 20A Dorset Ecke         | +856872553     |charl.muller@yahoo.com   | Berlin        | Germany      |
-| 5            | Julia      | Stein    | Female  | 2 Wernerring            | +448672445058  | Js234@yahoo.com         | Frankfurt     | Germany      |
+| CustomerID | FirstName |LastName | Gender |Address | Phone | Email | City | Country |  
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1 | John | Hilbert | Male | 284 chaucer st | 084789657 | john@gmail.com | Johannesburg  | South Africa |
+| 2 | Thando | Sithole | Female | 240 Sector Road | 10794445584 | thando@gmail.com | Cape Town | South Africa |
+|3 | Leon | Glen | Male | 1 Everton Rd, Gillits | 02832830 | glen@gmail.com | Durban | South Africa |
+| 4 | Charl | Muller | Male | 20A Dorset Ecke | +856872553 |charl.muller@yahoo.com | Berlin | Germany |
+| 5 | Julia | Stein | Female | 2 Wernerring | +448672445058 | Js234@yahoo.com | Frankfurt | Germany |
 
 
 ### Employees Table
 
-| EmployeeID  | FirstName          | Last Name            | Email                          | Job Title   |  
-|-------------|--------------------|----------------------|--------------------------------|-------------|  
-| 1 (int)     | Kani (varchar 50)  | Matthew (varchar 50) | mat@gmail.com (varchar 100)    | Manager     |  
-| 2 (int)     | Lesly (varchar 50) |Cronje (varchar 50)   | LesC@gmail.com(varchar 100)    | Clerk       |  
-| 3 (int)     |Gideon (varchar 50)| Maduku (varchar 50)   | m@gmail.com(varchar 100)       | Accountant  |  
+| EmployeeID | FirstName | Last Name | Email | Job Title |  
+| --- | --- | --- | --- | --- |  
+| 1 (int) | Kani (varchar 50) | Matthew (varchar 50) | mat@gmail.com (varchar 100) | Manager |  
+| 2 (int) | Lesly (varchar 50) |Cronje (varchar 50) | LesC@gmail.com(varchar 100) | Clerk |  
+| 3 (int) |Gideon (varchar 50) | Maduku (varchar 50) | m@gmail.com(varchar 100) | Accountant |  
 
 ### Orders Table
 
-| OrderId     | Order                  | DateRequired    | DateShipped    |Status         |  
-|-------------|------------------------|-----------------|----------------|----------------|  
-| 1 (int)     | 01-09-2018 (datetime)  | 05-09-2018      | 02-09-2018     | Not shipped    |  
-| 2 (int)     | 01-09-2018 (datetime)  | 04-09-2018      | 03-09-2018     | Shipped        |  
-| 3 (int)     | 01-09-2018 (datetime)  | 03-09-2018      | 02-09-2018     | Not shipped    |  
+| OrderId | Order | DateRequired | DateShipped |Status |  
+| --- | --- | --- | --- |--- |  
+| 1 (int) | 01-09-2018 (datetime) | 05-09-2018 | 02-09-2018 | Not shipped |  
+| 2 (int) | 01-09-2018 (datetime) | 04-09-2018 | 03-09-2018 | Shipped |  
+| 3 (int) | 01-09-2018 (datetime) | 03-09-2018 | 02-09-2018 | Not shipped |  
 
 ### Payments Table
 
-| CustomerId      | PaymentDate           | Amount            |    
-|-----------------|-----------------------|-------------------|  
-| 1 (int)         | 01-09-2018 (datetime) | R100.00 (decimal) |  
-| 2 (int)         | 01-09-2018 (datetime) | R250.75 (decimal) |  
+| CustomerId | PaymentDate | Amount |    
+| --- | --- | --- |  
+| 1 (int) | 01-09-2018 (datetime) | R100.00 (decimal) |  
+| 2 (int) | 01-09-2018 (datetime) | R250.75 (decimal) |  
 
 ### Products Table
 
-| ProductId  | ProductName             | Description                                                                 | BuyPrice           |  
-|------------|-------------------------|-----------------------------------------------------------------------------|--------------------|  
-| 1 (int)    | Harley Davidson Chopper | This replica features working kickstand, front suspension, gear-shift lever | R150.75 (decimal)  |  
-| 2 (int)    | Classic Car             | Turnable front wheels, steering function                                    | R550.75 (decimal)  |  
-| 3 (int)    | Sports car              | Turnable front wheels, steering function                                    | R700.60 (decimal)  |     
+| ProductId | ProductName | Description | BuyPrice |  
+| --- -| --- | --- | --- |  
+| 1 (int) | Harley Davidson Chopper | This replica features working kickstand, front suspension, gear-shift lever | R150.75 (decimal) |  
+| 2 (int) | Classic Car | Turnable front wheels, steering function | R550.75 (decimal) |  
+| 3 (int) | Sports car | Turnable front wheels, steering function | R700.60 (decimal) |     
 
 
 7. SELECT ALL records from table Customers.
