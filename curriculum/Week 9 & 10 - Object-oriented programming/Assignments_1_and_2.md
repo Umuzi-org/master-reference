@@ -10,7 +10,6 @@
 - [Python OOP 6 - Property Decorators](https://youtu.be/jCzT9XFZ5bw)
 
 
-
 ## Reading:
 Guttag. Introduction to Computation and Programming using Python. Chapter 8, Classes and Object Oriented Programming, p.90 - 110.
 
