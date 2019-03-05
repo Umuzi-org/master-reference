@@ -37,12 +37,12 @@ Searching refers to looking for a specific data point (e.g., a number) in a data
 | 14 | turnover |
 
 
-    - a) 	What sequence of 'middle' values are compared to the target when performing a binary search with target doughnut?
-    - b)	What sequence of 'middle' values are compared to the target when performing a binary search with target tiramisu?
+    a) 	What sequence of 'middle' values are compared to the target when performing a binary search with target doughnut?  
+    b)	What sequence of 'middle' values are compared to the target when performing a binary search with target tiramisu?  
 
-2. For the list below,
-    - a) show the series of steps taken by the Bubble Sort algorithm while sorting this list.
-    - b) show the series of steps taken by the Selection Sort algorithm while sorting this list.
+2. For the list below,  
+    a) show the series of steps taken by the Bubble Sort algorithm while sorting this list.  
+    b) show the series of steps taken by the Selection Sort algorithm while sorting this list.  
 
 
 | index | 0 |	1 |	2 | 3 |	4 |	5 |	6 |	7 |
@@ -53,14 +53,14 @@ Searching refers to looking for a specific data point (e.g., a number) in a data
 
 3. The three search algorithms have varying run times, with the unsorted sequential search being the least efficient and the binary search being the most efficient (among the three).
 
-    - a)	Modify the code for the seq_search.py (for unsorted lists), seq_search_ordered.py and binary_search.py to count the number of elements checked during the search.
-    - b)	Using your instrumented code for the three search algorithms, perform the following searches, and report the number of elements checked by each algorithm for each search (i.e. you will report nine results in total -- for each of the 3 searches below, you will report the results from the 3 different search algorithms).
+    a)	Modify the code for the seq_search.py (for unsorted lists), seq_search_ordered.py and binary_search.py to count the number of elements checked during the search.  
+    b)	Using your instrumented code for the three search algorithms, perform the following searches, and report the number of elements checked by each algorithm for each search (i.e. you will report nine results in total - for each of the 3 searches below, you will report the results from the 3 different search algorithms).  
 
-        - i. Search for the value 9 in the following array:
+        i. Search for the value 9 in the following array:  
            	A = [6, 19, -3, 5, 12, 7, 21, -8, 25, 10, 0, 28, -6, 1, 33, 18, 9, 2, -13, 43]
-        - ii.  Search for the value 11 in the following array:
+        ii.  Search for the value 11 in the following array:  
            A = [6, 19, -3, 5, 12, 7, 21, -8, 25, 10, 0, 28, -6, 1, 33, 18, 9, 2, -13, 43]
-        - iii. Search for the value 11 in the following array:
+        iii. Search for the value 11 in the following array:  
         A = [6, 19, -3, 5, 12, 7, 21, -8, 25, 10, 0, 28, -6, 1, 33, 18, 9, 2, -13, 43, -15, 4, 22, 38, -5, 13, 23, -11, 29, -20, 41, 31, -23, 35, 40, 14, 8, -18, 16, 36]
 
 4. Using a random number generator, create a list of 50 integers and a list of 1000 integers. Perform a benchmark analysis using merge sort, quick sort, bubble sort and selection sort (algorithm are given) on each of the lists. For each list, what is the difference in execution speed between the different sorting techniques?
