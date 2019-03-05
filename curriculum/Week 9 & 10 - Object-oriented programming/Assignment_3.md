@@ -8,14 +8,14 @@
 - The player gets two chances to enhance the hand by rerolling some or all of the dice.
 - At the end of the hand, the player’s money is updated according to the following payout schedule:
 
-| Hand            | Pay |
-|-----------------|-----|
-| Two Pairs       | 5   |
-| Three of a Kind | 8   |
-| Full House      | 12  |
-| Four of a Kind  | 15  |
-| Straight        | 20  |
-| Five of a Kind  | 30  |
+| Hand | Pay |
+| --- | --- |
+| Two Pairs | 5 |
+| Three of a Kind | 8 |
+| Full House | 12  |
+| Four of a Kind | 15 |
+| Straight | 20 |
+| Five of a Kind | 30 |
 
 
 ## Explanation of the scoring

@@ -27,13 +27,14 @@ Create a query that will:
 
 ### Customer Table
 
-| CustomerID | FirstName |LastName | Gender |Address | Phone | Email | City | Country |  
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1 | John | Hilbert | Male | 284 chaucer st | 084789657 | john@gmail.com | Johannesburg  | South Africa |
-| 2 | Thando | Sithole | Female | 240 Sector Road | 10794445584 | thando@gmail.com | Cape Town | South Africa |
-| 3 | Leon | Glen | Male | 1 Everton Rd, Gillits | 02832830 | glen@gmail.com | Durban | South Africa |
-| 4 | Charl | Muller | Male | 20A Dorset Ecke | +856872553 |charl.muller@yahoo.com | Berlin | Germany |
-| 5 | Julia | Stein | Female | 2 Wernerring | +448672445058 | Js234@yahoo.com | Frankfurt | Germany |
+| CustomerID | FirstName | LastName | Gender | Address | Phone | Email | City | Country |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1	| John | Hibert | Male | 284 | chaucer st	| 084789657 (int 10) | john@gmail.com (varchar 100) | Johannesburg | South Africa |
+| 2 | Thando | Sithole | Female | 240 Sect 1 | 0794445584 | thando@gmail.com (varchar 100) | Cape Town | South Africa |
+| 3 | Leon | Glen | Male | 81 Everton Rd,Gillits | 0820832830 | Leon@gmail.com (varchar 100) | Durban | South Africa |
+| 4 | Charl | Muller | Mal | 290A Dorset Ecke | +44856872553 | Charl.muller@yahoo.com (varchar 100) | Berlin | Germany |
+| 5 | Julia | Stein | Female | 2 Wernerring | +448672445058 | Js234@yahoo.com (varchar 100) | Frankfurt | Germany |
+
 
 
 ### Employees Table
