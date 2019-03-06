@@ -36,11 +36,11 @@ The first few months for a Umuzi tech recruit are dedicated to obtaining a Natio
 * NCIT 05: Research presentation
    * Assignment: 10-min presentation using Jupyter Notebooks and RISE
 * NCIT 06 Workshop: Giving and receiving constructive feedback
-### Week 6: Web design
+### Week 6: The internet and ethics
 * NCIT curriculum
-   * 07: History of the Internet and online gaming
+   * 07: History of the Internet & how it works
    * 08: Web design for business
-   * 09: Building an online business
+   * 09: Building an online business, data ethics
 ### Week 7: Project management and problem solving
 * Introduction to Agile
    * NCIT 10: Agile project management
