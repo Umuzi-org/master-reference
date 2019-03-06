@@ -28,10 +28,14 @@
     - On storage, data values are standardized according to a data model and/or data type.
     - All characteristics of the data must be correct – e.g. dates, integers.
     - Data must stay secure and correct over its lifespan: data cannot be modified in an unauthorized or undetected manner.
+    - Minimise duplication of data
+    - Store the original, raw data separately from processed data
 
 ## Know the data content and pipeline
 
 Individuals who know the data best are very important to successfully validating the data! Alternatively, get out on the ground and get to know the data process and content yourself!
+
+## Documentation
 
 An audit trail should always be available, i.e. how the data is collected, transformed and stored should be documented so that it is clear at which step of
 the process problems may have crept in.
