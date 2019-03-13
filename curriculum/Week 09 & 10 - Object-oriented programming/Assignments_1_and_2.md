@@ -13,6 +13,10 @@
 ## Reading:
 Guttag. Introduction to Computation and Programming using Python. Chapter 8, Classes and Object Oriented Programming, p.90 - 110.
 
+
+## Tutorial:
+Feeling unsure about how to approach the assignment? [Here](https://www.learnpython.org/en/Classes_and_Objects) is a quick online tutorial to get you introduced to classes.
+
 ## Assignment 1.	Rolling multi-sided dice
 
 ### Description of the task
