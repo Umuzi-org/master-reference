@@ -1,5 +1,6 @@
 
 ## Instructions
+
 Watch the sessions on [Dashboarding with Notebooks](https://www.kaggle.com/rtatman/dashboarding-with-notebooks-day-1/notebook). Use one of the updating data sources refered to in the Kaggle sessions to create a dashboard with Jupyter Notebooks and Plotly (or, if you are feeling up to the task, Flask).
 
 ## References:
