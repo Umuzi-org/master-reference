@@ -5,7 +5,6 @@ portfolio of your work. Create the website and host it on [Github Pages](https:/
 You will be updating your portfolio throughout the learnership.
 
 
-
 ## Summary:
 Create a personal website to showcase your talents and ambitions and to let the world know more about you. In the future, this will be the website you send to potential employers, so it should have the ability to show a portfolio of your best work.
 
@@ -29,7 +28,7 @@ Once you have finished your design and are satisfied with the style and content,
 -	Website must be responsive to different screen sizes - use a mobile-first approach!
     -	Use CSS Grid (see tutorials below) to design your site and make it responsive
 -	Website must be developed using HTML and CSS Grid with a logical structure and naming conventions in your code
--	Some basic JavaScript/Jquery should be integrated into the site in some way to make it more interactive and user-friendly
+-	Some basic JavaScript/JQuery should be integrated into the site in some way to make it more interactive and user-friendly
 -	Submit a link to the completed website on your cohort’s Slack channel
 -	Feel free to use icons, colours, pictures or organograms if you need to
 -	Create a board on Trello to assist you in breaking down your tasks in manageable chunks
@@ -37,5 +36,6 @@ Once you have finished your design and are satisfied with the style and content,
 
 ## Links
 - [How to make a GitHub Page](https://pages.github.com/)
-- CSS Grid: 	https://scrimba.com/g/gR8PTE (Screencast tutorials)
-https://css-tricks.com/snippets/css/complete-guide-grid/ (more info)
+- CSS Grid:
+    - https://scrimba.com/g/gR8PTE (Screencast tutorials)
+    - https://css-tricks.com/snippets/css/complete-guide-grid/ (more info)
