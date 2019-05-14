@@ -1,7 +1,7 @@
 # Decision Trees
 
 ## Background
-- Walk through the [machine learning Kaggle tutorial](https://www.kaggle.com/learn/machine-learning)
+- Walk through the [machine learning Kaggle tutorial](https://www.kaggle.com/learn/intro-to-machine-learning)
 - Complete the Datacamp tutorial on [Tree-Based Models](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 
 ## Assignment:
