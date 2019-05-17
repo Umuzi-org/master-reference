@@ -1,4 +1,5 @@
-﻿# Frame of Reference:  Umuzi Tech
+﻿# Frame of Reference: Umuzi Tech
+
 # Data Science Program Outline
 
 ## Month -1: Online Learning and Bootcamp
@@ -16,91 +17,94 @@ The first few months for a Umuzi tech recruit are dedicated to obtaining a Natio
 ### Week 1: Linux and intro to curriculum
 * Command line bootcamp
 * Introduction to NCIT curriculum
-   * NCIT 01: Business and technology
-   * NCIT 02: Ethics and Professionalism in IT
-### Week 2: Useful tools and personal portfolio
+### Week 2: Version control with GIT
 * Version control workshop
-* Project management with Trello (first intro to Agile and Scrum methodologies)
 * Development of a portfolio website with HTML5, CSS and bootstrap
-### Week 3: Personal portfolio and conducting research
+### Week 3: Personal portfolio
+* Finish portfolio website
+### Week 4: Conducting research
 * NCIT 03: Conducting research and user interviews
    * Workshop: Survey design with Google Forms
    * Assignment: Research notes
-* Continue to work on portfolio website
-### Week 4: Reporting results
+### Week 5: Reporting results
 * Introduction to data manipulation, summarisation and visualisation
    * Importing and visualising data collected during the previous week
    * Workshop: Central tendency, variance and data visualisation
 * NCIT 04: Creating a reproducible report using Jupyter Notebooks
-### Week 5: Presentations and professional communication
 * NCIT 05: Research presentation
    * Assignment: 10-min presentation using Jupyter Notebooks and RISE
 * NCIT 06 Workshop: Giving and receiving constructive feedback
 ### Week 6: The internet and ethics
 * NCIT curriculum
    * 07: History of the Internet & how it works
-   * 08: Web design for business
-   * 09: Building an online business, data ethics
-### Week 7: Project management and problem solving
-* Introduction to Agile
-   * NCIT 10: Agile project management
-   * NCIT 11: Agile meetings
-* NCIT 12: Boolean algebra, logic
-   * Workshop: Problem solving techniques
-### Week 8: Version control and documentation
-* NCIT 13: Version control (GIT) for teamwork
-* NCIT 14: Pseudocode and documentation
+   * 08: Data science for business
+   * 09: Building an online business
+   * NCIT 02: (Data) Ethics and Professionalism in Tech
+### Week 7: Tech in business
+* NCIT 01: Business and technology
 * Workshop: Project organization and naming conventions, cookie-cutter data science
-### Weeks 9 & 10: OOP
+* Project management with Trello (first intro to Agile and Scrum methodologies)
+### Week 8: Data wrangling
+* Merge, filter, sort, transform
+### Week 9 & 10: Test-driven development
+* NCIT 16: Test-driven development
+   * Assignment: Testing your code with py.test
+### Functional programming
+* List comprehension
+* Higher-order functions
+* Lazy evaluation
+### Week 12: Statistical thinking in python
+* Hypothesis testing, probability and confidence intervals
+* Missing data, outliers, influential values
+* Correlation    
+* Assignment: [Salary Correlates](https://www.github.com/Umuzi-orsalary/blob/master/assignment1.md)
+### Weeks 13 & 14: OOP
+* NCIT 14: Pseudocode and documentation
 * NCIT 15: Object-oriented programming
    * Assignment: Designing a dice-based poker game
-### Week 11: Test-driven development
-* NCIT 16: Test-driven development
-   * Assignment: Testing your code with py.test and unittest
-### Week 12: Statistical Thinking in Python
-* Hypothesis testing, probability and confidence intervals
-* Correlation
-   * Assignment: [Salary Correlates](https://www.github.com/Umuzi-org/salary/blob/master/assignment1.md)
-### Week 13: Statistical Thinking in Python
-* Missing data, outliers, influential values
-* Salary assignment continued
-* Overview of different machine learning techniques
-### Week 14 & 15: Cross-validation and Linear Regression
-* Test, training and validation sets
-* Assignment: [Predicting employee salaries](https://www.github.com/Umuzi-org/salary/blob/master/assignment2.md)
-### Week 16:  Multivariate Regression
-* One-hot encoding and multiple regression
-* Assignment: [Predicting employee salaries](https://www.github.com/Umuzi-org/salary/blob/master/assignment3.md)
-### Week 17: Introduction to relational databases
+   * Workshop: Problem solving techniques
+### Week 16: Introduction to relational databases
 * Workshop: Intro to mySQL and relational databases
-* Datacamp: https://www.datacamp.com/courses/introduction-to-relational-databases-in-sql
-* NCIT 17: Assignment: Create MySQL database with employee and product tables
+* [Datacamp](https://www.datacamp.com/courses/introduction-trelational-databases-in-sql)
+* NCIT 17: Assignment: Create MySQL database
 * Data quality control
-### Week 18:  SQL
-* Datacamp: https://www.datacamp.com/courses/intro-to-sql-for-data-science
+### Week 17:  SQL
+* Datacamp: https://www.datacamp.com/courses/intro-to-sql-for-datscience
 * Datacamp: https://www.datacamp.com/courses/intermediate-sql
 * Assignment: Construct queries using previously designed database
-### Week 19: Dashboards - visualising data from a database
-* Introduction to Plotly & Dash
+### Week 18 & 19: Dashboards and web scraping
 * NCIT 18: Input & Output
-   * Webscraping
+   * Web scraping
    * Getting data from a database
+   * Creating a dashboard with Plotly & Dash
 ### Week 20: Search and sort techniques
 * Introduction to algorithms
+   * NCIT 12: Boolean algebra, logic
    * NCIT 19: Search and sort techniques
    * Assignment: search and sort algorithms
-### Week 21: Decision Trees
-* Datacamp: https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python
-* Assignment: https://www.kaggle.com/danilodiogo/churn-analysis-decision-tree-random-forest
-### Week 22-23: Logistic Regression
-* Datacamp: Predicting credit card approvals, https://www.datacamp.com/projects/558
+### Week 21: Project management and problem solving
+* Agile and Scrum for teams
+  * NCIT 10: Agile project management
+  * NCIT 11: Agile meetings
+  * NCIT 13: Version control (GIT) for teamwork
+### Week 22: Cross-validation and linear regression
+* Test, training and validation sets
+* Assignment: [Predicting employee salaries](https://www.github.comUmuzi-org/salary/blob/master/assignment2.md)
+  * Workshop: Overview of different machine learning techniques
+### Week 13:  Multivariate regression
+* One-hot encoding and multiple regression
+* Assignment: [Predicting employee salaries](https://www.github.comUmuzi-org/salary/blob/master/assignment3.md)
+### Week 24: Decision Trees
+* [Datacamp: Tree-based models](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+* Assignment: [Churn analysis](https://www.kaggle.com/danilodiogo/churn-analysis-decision-tree-random-forest)
+### Week 25: Logistic Regression
+* [Datacamp: Predicting credit card approvals](https://www.datacamp.com/projects/558)
 * Assignment: Titanic predictions / Predictors of success at Umuzi
-### Week 24: K-Means Clustering
-* Assignment: Iris dataset, https://www.kaggle.com/shrutimechlearn/classification-with-iris-dataset/data
-* Assignment: https://www.kaggle.com/thebrownviking20/in-depth-eda-and-k-means-clustering
-* https://www.kaggle.com/koki25ando/cluster-analysis-of-whisky-reviews-using-k-means
+### Week 26: K-Means Clustering
+* Assignment: [Iris dataset](https://www.kaggle.com/shrutimechlearn/classification-with-iris-dataset/data)
+* Assignment: [Whiskey reviews](https://www.kaggle.com/koki25ando/cluster-analysis-of-whisky-reviews-using-k-means)
 ### Optional: Principal Components Analysis
-* Datacamp: Predicting song genres, https://www.datacamp.com/projects/449
+* [Datacamp: Predicting song genres](https://www.datacamp.com/projects/449)
 
 # Months 6-9: Product Teams
 Product teams are teams of no more than 6 recruits guided by a product owner (Umuzi staff). The teams use the Scrum methodology to build real-world, web-based products. Recruits learn additional frameworks (e.g., Django) and packages as needed for the products.
