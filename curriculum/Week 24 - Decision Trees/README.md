@@ -5,7 +5,14 @@
 - Complete the Datacamp tutorial on [Tree-Based Models](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 
 ## Assignment:
-Use a decision tree model to analyse user churn on [Kaggle](https://www.kaggle.com/danilodiogo/churn-analysis-decision-tree-random-forest). Remember to use train and test sets! Report the RMSE of your model on the training set and on the test set.
+Use a decision tree model to predict customer churn (the percentage of customers that stopped using a company's product or service during a certain time frame).
+
+1. Split your data into train and test sets.
+2. Get basic descriptive statistics for the training data and check for missing and incorrect values.
+3. What are the factors that predict user churn?
+4. Report the RMSE of your model on the training set and on the test set. How successful is the model?
+
+Find the data on [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn).
 
 ## More information on decision trees
 [Coursera: Decision Trees](https://www.coursera.org/lecture/python-machine-learning/decision-trees-Zj96A)
