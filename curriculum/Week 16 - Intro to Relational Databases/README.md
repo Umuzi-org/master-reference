@@ -2,6 +2,8 @@
 # NCIT units 114048 & 114049
 
 ## Instructions
+Save all of your instructions in a script file - you will submit this file on Gnomio and github.
+
 Download MySQL and install on Ubuntu; also install the MySQLdb library in python (using conda or pip install).
 The MySQLdb package will allow you to use python to interface with your MySQL database.
 
@@ -39,34 +41,61 @@ Create a query that will:
 
 ### Employees Table
 
-| EmployeeID | FirstName | Last Name | Email | Job Title |  
+| EmployeeID
+ | FirstName | Last Name | Email |
+ Job Title |  
 | --- | --- | --- | --- | --- |  
 | 1 (int) | Kani (varchar 50) | Matthew (varchar 50) | mat@gmail.com (varchar 100) | Manager |  
-| 2 (int) | Lesly (varchar 50) |Cronje (varchar 50) | LesC@gmail.com (varchar 100) | Clerk |  
-| 3 (int) |Gideon (varchar 50) | Maduku (varchar 50) | m@gmail.com (varchar 100) | Accountant |  
+
+| 2 (int) | Lesly (varchar 50) |
+Cronje (varchar 50) | LesC@gmail.com (varchar 100) | Clerk |  
+
+| 3 (int) |
+Gideon (varchar 50) | Maduku (varchar 50) | m@gmail.com (varchar 100) | Accountant |
+  
 
 ### Orders Table
 
-| OrderId | Order | DateRequired | DateShipped |Status |  
-| --- | --- | --- | --- |--- |  
-| 1 (int) | 01-09-2018 (datetime) | 05-09-2018 | 02-09-2018 | Not shipped |  
-| 2 (int) | 01-09-2018 (datetime) | 04-09-2018 | 03-09-2018 | Shipped |  
-| 3 (int) | 01-09-2018 (datetime) | 03-09-2018 | 02-09-2018 | Not shipped |  
+| OrderId |
+ Order | Date
+Required | Date
+Shipped |
+Status |  
+| --- | --- | --- | --- |--- |  
+
+| 1 (int) |
+ 01-09-2018 (datetime) | 05-09-2018 | 02-09-2018 | Not shipped |  
+| 2 (int) |
+ 01-09-2018 (datetime) | 04-09-2018 | 0
+3-09-2018 | Shipped
+ |  
+| 3 (int) | 01-09-2018 (datetime) |
+ 03-09-2018
+ | 02-09-2018 | Not shipped
+ |  
 
 ### Payments Table
 
-| CustomerId | PaymentDate | Amount |    
+| CustomerId | PaymentDate |
+ Amount |    
 | --- | --- | --- |  
 | 1 (int) | 01-09-2018 (datetime) | R100.00 (decimal) |  
-| 2 (int) | 01-09-2018 (datetime) | R250.75 (decimal) |  
+| 2 (int) | 01-09-2018 (datetime) | R250.75 (decimal)
+ |  
 
 ### Products Table
 
-| ProductId | ProductName | Description | BuyPrice |  
+| ProductId | ProductName |
+ Description | BuyPrice |  
 | --- | --- | --- | --- |  
-| 1 (int) | Harley Davidson Chopper | This replica features working kickstand, front suspension, gear-shift lever | R150.75 (decimal) |  
-| 2 (int) | Classic Car | Turnable front wheels, steering function | R550.75 (decimal) |  
-| 3 (int) | Sports car | Turnable front wheels, steering function | R700.60 (decimal) |     
+| 1 (int) |
+ Harley Davidson Chopper | This replica features working kickstand, front suspension, gear-shift lever | R150.75 (decimal) |  
+
+| 2 (int) |
+ Classic Car | Turnable front wheels, steering function | R550.75 (decimal) |  
+| 3 (int) | Sports car | Turnable front wheels, steering function |
+ R700.60
+ (decimal) |     
 
 
 7. SELECT ALL records from table Customers.
