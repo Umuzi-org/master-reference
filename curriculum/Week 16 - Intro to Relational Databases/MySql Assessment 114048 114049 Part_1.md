@@ -1,6 +1,6 @@
----
-title: MySQL Assesment
----
+
+# MySQL Assesment
+
 ## NCIT Units
 
 ## Instructions
@@ -28,7 +28,7 @@ The MySQLdb package will allow you to use python to interface with your MySQL da
 
 Create a query that will:
 
-6. INSERT the following records to the tables described above.
+6. INSERT the following records to the tables described above:
 
 ### Customer Table
 
