@@ -1,7 +1,4 @@
----
-title: MySql_Assessment
----
-## NCIT Units
+ # MySQL Assessment
 
 ## Instructions (Based on the previous assessment 114048 & 114049 part.1)
 
