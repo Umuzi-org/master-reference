@@ -29,6 +29,8 @@ def get_percentage(score):
 df.apply(get_percentage, axis = 1)
 ```
 
+## Steps
+
 This data contains personality scores for recruits, plus the department they applied for.
 
 1. Read in the dataset personality_scores.csv in this repo. Examine the data frame for duplicates (based on ID), and drop any duplicates that exist. Assert that the new data frame is the length of the unique entries of the original data frame.
