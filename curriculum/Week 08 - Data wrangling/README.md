@@ -19,10 +19,10 @@ For example, to get modify every column in a dataframe (to get a percentage in t
 ```
 for column in df:
   column = column/10*100
-  ```
+ ```
 
 Use:
-  ```
+```
 def get_percentage(score):
   score/10*100
 
