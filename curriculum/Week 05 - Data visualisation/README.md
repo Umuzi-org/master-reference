@@ -2,7 +2,7 @@ Go through the datacamp course [Introduction to Data Visualisation with
 Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python), or if you want to fast-track, complete Kaggle's [Data Visualisation: From Non-Coder to Coder](https://www.kaggle.com/learn/data-visualization-from-non-coder-to-coder)
 
 
-## Assignment 1 
+## Assignment 1
 Once you have completed the course, complete the Datacamp project
 [Exploring the Evolution of Linux](https://www.datacamp.com/projects/111).  
 

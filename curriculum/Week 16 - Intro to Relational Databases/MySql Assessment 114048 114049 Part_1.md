@@ -7,24 +7,34 @@
 - Save all of your instructions in a script file - you will submit this file on Gnomio and github.
 - save it as `MySql Assessment 114048 & 114049 Part 1``
 
-Download MySQL and install on Ubuntu; also install the MySQLdb library in python (using conda or pip install).
-The MySQLdb package will allow you to use python to interface with your MySQL database.
+Download MySQL and install on Ubuntu:
 
+```
+sudo apt update
+sudo apt upgrade
+wget http://repo.mysql.com/mysql-apt-config_0.8.10-1_all.deb
+sudo dpkg -i mysql-apt-config_0.8.10-1_all.deb
+sudo apt update
+sudo apt install mysql-server
 
-## Questions
+```
 
-1. Open a mySQL connection in python.
+ Run MySQL as root to complete the steps below: `mysql -u root `. You can run [mysql-workbench] (https://www.mysql.com/products/workbench/) to export your code in a script.
+
+## Steps
+
 2. Create a database called "Umuzi".
 
-3. Create the following tables
+3. Create the following tables in Umuzi database
     - Customers
     - Employees
     - Orders
     - Payments
     - Products
 
-4. Create a Primary key for each table with auto-increment (make sure you correctly specify the data types, e.g. the ID field should be `int`).
-5. Create a Foreign key for the tables.
+4. Create a primary key for each table with auto-increment (make sure you correctly specify the data types, e.g. the ID field should be `int`).
+
+5. Create foreign keys so that every ID in the order table references an existing ID in the tables referenced (e.g., ProductID, EmployeeID ...).
 
 Create a query that will:
 
@@ -32,44 +42,46 @@ Create a query that will:
 
 ### Customer Table
 
-| CustomerID | FirstName | LastName | Gender | Address | Phone | Email | City | Country |
+| CustomerID (int) | FirstName (varchar 50) | LastName (varchar 50) | Gender (varchar) | Address (varchar 200) | Phone (int 10) | Email (varchar 100) | City (varchar 20)| Country (varchar 50)|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1	| John | Hibert | Male | 284 chaucer st| 084789657 (int 10)	| john@gmail.com (varchar 100) | Johannesburg | South Africa  |
-| 2 | Thando | Sithole | Female | 240 Sect 1 | 0794445584 | thando@gmail.com (varchar 100) | Cape Town | South Africa |
-| 3 | Leon | Glen | Male | 81 Everton Rd,Gillits | 0820832830 | Leon@gmail.com (varchar 100) | Durban | South Africa |
-| 4 | Charl | Muller | Mal | 290A Dorset Ecke | +44856872553 | Charl.muller@yahoo.com (varchar 100) | Berlin | Germany |
-| 5 | Julia | Stein | Female | 2 Wernerring | +448672445058 | Js234@yahoo.com (varchar 100) | Frankfurt | Germany |
+| 1	| John | Hibert | Male | 284 chaucer st| 084789657| john@gmail.com | Johannesburg | South Africa  |
+| 2 | Thando | Sithole | Female | 240 Sect 1 | 0794445584 | thando@gmail.com | Cape Town | South Africa |
+| 3 | Leon | Glen | Male | 81 Everton Rd,Gillits | 0820832830 | Leon@gmail.com | Durban | South Africa |
+| 4 | Charl | Muller | Mal | 290A Dorset Ecke | +44856872553 | Charl.muller@yahoo.com | Berlin | Germany |
+| 5 | Julia | Stein | Female | 2 Wernerring | +448672445058 | Js234@yahoo.com | Frankfurt | Germany |
 
 
 
 ### Employees Table
 
-| EmployeeID | FirstName | Last Name  |  Email |  Job Title |
+| EmployeeID (int) | FirstName (varchar 50) | LastName (varchar 50) |  Email (varchar 100) |  JobTitle (varchar 20) |
 | --- | --- | --- | --- | --- |  
-| 1 (int) | Kani (varchar 50) | Matthew (varchar 50) | mat@gmail.com (varchar 100) | Manager |
-| 2 (int) | Lesly (varchar 50) | Cronje (varchar 50) | LesC@gmail.com (varchar 100) | Clerk |  
-| 3 (int) | Gideon (varchar 50) | Maduku (varchar 50) | m@gmail.com (varchar 100) | Accountant |
+| 1 | Kani | Matthew | mat@gmail.com | Manager |
+| 2 | Lesly | Cronje | LesC@gmail.com | Clerk |  
+| 3 | Gideon | Maduku | m@gmail.com | Accountant |
 
 
 ### Orders Table
 
-| OrderId | Order | Date Required | Date Shipped | Status |  
-| --- | --- | --- | --- |--- |  
-| 1 (int) | 01-09-2018 (datetime) | 05-09-2018 | 02-09-2018 | Not shipped |
-| 2 (int) | 01-09-2018 (datetime) | 04-09-2018 | 03-09-2018 | Shipped |  
-| 3 (int) | 01-09-2018 (datetime) | 03-09-2018 | 02-09-2018 | Not shipped |  
+| OrderId (int) | ProductID (int) | PaymentID (int) | FulfilledByEmployeeID  (int) | DateRequired (datetime) | DateShipped (datetime) | Status (varchar 20) |  
+| --- | --- | --- | --- |--- | --- |  --- |  
+| 1  | 1  | 1  | 2  | 05-09-2018 | 02-09-2018 | Not shipped |
+| 2  | 1  | 2  | 2  | 04-09-2018 | 03-09-2018 | Shipped |  
+| 3  | 1  | 3  | 3  | 03-09-2018 | 02-09-2018 | Not shipped |  
 
 ### Payments Table
 
-| CustomerId | PaymentDate | Amount |    
-| --- | --- | --- |  
-| 1 (int) | 01-09-2018 (datetime) | R100.00 (decimal) |  
-| 2 (int) | 01-09-2018 (datetime) | R250.75 (decimal) |  
+| CustomerId (int) | PaymentID (int) | PaymentDate (datetime) | Amount (decimal) |    
+| --- | --- | --- | --- |   
+| 1 | 1 | 01-09-2018 | R100.00 |  
+| 2 | 2 | 01-09-2018 | R250.75 |  
 
 ### Products Table
 
-| ProductId | ProductName | Description | BuyPrice |  
+| ProductId (int) | ProductName (varchar 100) | Description (varchar 300) | BuyPrice (decimal) |  
 | --- | --- | --- | --- |  
-| 1 (int) | Harley Davidson Chopper | This replica features working kickstand, front suspension, gear-shift lever | R150.75 (decimal) |
-| 2 (int) | Classic Car | Turnable front wheels, steering function | R550.75 (decimal) |  
-| 3 (int) | Sports car | Turnable front wheels, steering function | R700.60 (decimal) |
+| 1 | Harley Davidson Chopper | This replica features working kickstand, front suspension, gear-shift lever | R150.75 |
+| 2 | Classic Car | Turnable front wheels, steering function | R550.75 |  
+| 3 | Sports car | Turnable front wheels, steering function | R700.60 |
+
+7. Document what information is stored in your database. Be sure to say what information is kept in what table, and which keys link the records between tables.
