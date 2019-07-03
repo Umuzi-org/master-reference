@@ -19,7 +19,7 @@ sudo apt install mysql-server
 
 ```
 
- Run MySQL as root to complete the steps below: `mysql -u root `. You can run [mysql-workbench] (https://www.mysql.com/products/workbench/) to export your code in a script.
+ Run MySQL as root to complete the steps below: `mysql -u root `. You can run [mysql-workbench](https://www.mysql.com/products/workbench/) to [export your code in a script](https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-management.html).
 
 ## Steps
 
@@ -65,16 +65,17 @@ Create a query that will:
 
 | OrderId (int) | ProductID (int) | PaymentID (int) | FulfilledByEmployeeID  (int) | DateRequired (datetime) | DateShipped (datetime) | Status (varchar 20) |  
 | --- | --- | --- | --- |--- | --- |  --- |  
-| 1  | 1  | 1  | 2  | 05-09-2018 | 02-09-2018 | Not shipped |
+| 1  | 1  | 1  | 2  | 05-09-2018 | | Not shipped |
 | 2  | 1  | 2  | 2  | 04-09-2018 | 03-09-2018 | Shipped |  
-| 3  | 1  | 3  | 3  | 03-09-2018 | 02-09-2018 | Not shipped |  
+| 3  | 3  | 3  | 3  | 06-09-2018 |  | Not shipped |  
 
 ### Payments Table
 
 | CustomerId (int) | PaymentID (int) | PaymentDate (datetime) | Amount (decimal) |    
 | --- | --- | --- | --- |   
-| 1 | 1 | 01-09-2018 | R100.00 |  
-| 2 | 2 | 01-09-2018 | R250.75 |  
+| 1 | 1 | 01-09-2018 | R150.75 |  
+| 5 | 2 | 03-09-2018 | R150.75 |  
+| 4 | 3 | 03-09-2018 | R700.60 | 
 
 ### Products Table
 
